@@ -1,0 +1,23 @@
+{
+  "name": "Exercicis-DIW-i-DWEC-2021-22",
+  "version": "1.0.0",
+  "description": "es el meu nou projecte\r ## TODO\r instalar una extensio en node \r afegir unes funcions\r ## Webgrafia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magic2497/Exercicis-DIW-i-DWEC-2021-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magic2497/Exercicis-DIW-i-DWEC-2021-22/issues"
+  },
+  "homepage": "https://github.com/magic2497/Exercicis-DIW-i-DWEC-2021-22#readme",
+  "dependencies": {
+    "html-validate": "^6.0.2"
+  }
+}
